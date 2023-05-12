@@ -1,0 +1,58 @@
+000 red and white circle five km sign
+001 red and white circle fifteen km sign
+002 red and white circle thirty km sign
+003 red and white circle forty km sign
+004 red and white circle fifty km sign
+005 red and white circle sixty km sign
+006 red and white circle seventy km sign
+007 red and white circle eighty km sign
+008 red and white circle no left turn sign
+009 red and white circle no right turn sign
+010 red and white circle no forward sign 
+011 red and white circle no left turnaround sign 
+012 red and white circle no left or right sign 
+013 red and white circle no right turnaround sign 
+014 red and white circle no bypassing sign 
+015 red and white circle no sharp turnaround sign
+016 red and white circle no car sign
+017 red and white circle no horn sign 
+018 black and white circle forty km sign
+019 black and white circle fifty km sign 
+020 blue and white circle forward and right turn sign 
+021 blue and white circle forward sign 
+022 blue and white circle left turn sign 
+023 blue and white circle left and right turn sign
+024 blue and white circle right exit sign 
+025 blue and white circle follow left sign
+026 blue and white circle follow right sign
+027 blue circle turn around sign
+028 blue circle car sign
+029 blue circle horn sign 
+030 blue circle bicycle sign 
+031 blue square turn around sign 
+032 yellow and black triangle drive around sign 
+033 red triangle traffic lights sign
+034 yellow and black triangle danger sign 
+035 yellow and black triangle pedestrian sign 
+036 yellow and black triangle bicycle sign 
+037 yellow and black triangle children sign 
+038 yellow and black triangle right turn around sign 
+039 yellow and black triangle left turn around sign 
+040 yellow and black triangle down steep slope sign 
+041 yellow and black triangle up steep slope sign 
+042 yellow and black triangle slow driving sign 
+043 yellow and black triangle right intersection sign 
+044 yellow and black triangle left intersection sign 
+045 yellow and black triangle village sign 
+046 yellow and black triangle reverse curves sign 
+047 yellow and black triangle train sign 
+048 yellow and black triangle construction sign 
+049 yellow and black triangle continuous curve sign 
+050 yellow and black triangle railway sign
+051 yellow and black triangle be careful sign
+052 red and white octagon stop sign 
+053 red and white circle no passing sign
+054 blue and red circle no parking sign
+055 red and white circle stop sign
+056 red and white triangle let others go sign
+057 red and while circle stop and check sign
